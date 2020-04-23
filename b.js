@@ -1,2 +1,2 @@
 console.log('B');
-console.log('Bbb');
+console.log('Bb');
